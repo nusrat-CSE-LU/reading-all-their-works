@@ -1,0 +1,61 @@
+body{
+    background-image: url('pic4p2.png');
+}
+.myH1{
+    font-size: 2em;
+    font-style: italic;
+    background-color: bisque;
+    text-align: center;
+
+}
+.icons{
+    text-align: center;
+}
+.icons a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.fa-solid.fa-house.fa-3x{
+    color:rgb(223, 209, 187)
+}
+.fa-solid.fa-envelope.fa-3x{
+    color:rgb(196, 156, 127)
+}
+.fa-brands.fa-goodreads-g.fa-3x{
+    color: rgb(112, 46, 46);
+}
+.p1 {
+    text-align: left;
+    font-size: 20px;
+    font-family: cursive;
+    color: rgb(238, 245, 245);
+    max-width: 800px;
+    margin: auto;
+}
+
+#bordered {
+    text-align: center;
+    border: 2px solid burlywood;
+    padding: 30px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: rgb(46, 30, 30);
+    background-color: rgb(226, 190, 145);
+}
+
+.box1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; 
+    margin-top: 40px;
+    font-size: xx-large;
+}
+.box2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; 
+    margin-top: 40px;
+    font-size: xx-large;
+}
