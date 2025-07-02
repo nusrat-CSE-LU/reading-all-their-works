@@ -1,0 +1,29 @@
+body{
+    background-image: url('pic4p2.png');
+}
+.myH1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+#pic2 {
+  width: 480px;          /* Adjust the size as needed */
+  height: 300px;          /* Keeps the aspect ratio */
+  display: block;        /* Allows margin auto to work */
+  margin: 0 auto;        /* Centers the image horizontally */
+  border-radius: 10px;   /* Optional: rounds corners slightly */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: adds a soft shadow */
+}
+.book {
+  font-size: 25px;       /* Increase text size */
+  font-weight: 500;      /* Slightly bold for clarity */
+  line-height: 1.6;      /* Improve readability */
+  font-family: 'Georgia', serif; /* Optional: elegant font */
+  margin-bottom: 10px;   /* Space between each book */
+}
+
+input[type="checkbox"] {
+  transform: scale(2.3); /* Make checkboxes slightly larger */
+  margin-right: 10px;    /* Space between checkbox and text */
+}
+ 
