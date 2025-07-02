@@ -43,6 +43,17 @@ body{
     background-color: rgb(226, 190, 145);
 }
 
+
+#borderrr {
+    text-align: center;
+    border: 2px solid burlywood;
+    padding: 30px 30px;
+    border-radius: 6px;
+    font-weight: bold;
+    color: rgb(46, 30, 30);
+    background-color:goldenrod;
+}
+
 .box1 {
     display: flex;
     flex-direction: column;
